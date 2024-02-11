@@ -8,7 +8,7 @@ This is my user record php crud program webiste .hope this php crud will help yo
 ### step: 3
 - Please keep in mind that we need to create file crud file - create->insert.php, read->display.php, update->edit.php, and delete.php.
 ### step: 4
-- In insert.php we should think how to create or add form format.there are so many method to create form. make form to attractive with css or with help of css framework like bootstrap or tailwin css.i recommended to you to go with bootstrap becasue it is easy to implement in php for style.
+- In insert.php we should think how to create or add form format. there are so many method to create form. Make a form to attractive with css or with help of css framework like bootstrap or tailwind css.i recommended  you to go with bootstrap becasue it is easy to implement in php for style.
 -  connection.php should be involve and should be run sql mysqli query for insert data in database.so please do code which run the system to insert form data to store database.
 ### step: 5
 - In display.php we should display the insert data in client or user browser with the help of table format.for this we should run the display sql query like: sql= "SELECT * from tablename ......";
@@ -19,3 +19,4 @@ This is my user record php crud program webiste .hope this php crud will help yo
 
 ### Note:
 - In this readme Please ignore my grammertical mistake. my english is not good. and my main purpose for this crud is for beginner who want to learn core php crud website.This is web developer we all are learner and perfect. so keep learning keep exploring. Thank you....(Please review of code...)
+- Please learn the conecpt of how session and cookies works on website.And if you learn all these things other remaining things will easy you to learn and understand.so do more practice it..
